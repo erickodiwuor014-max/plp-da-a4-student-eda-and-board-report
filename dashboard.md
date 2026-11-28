@@ -6,9 +6,10 @@ Anyone with the link can view the dashboard. The data is synthetic course data, 
 
 ## Screenshots
 
-![Dashboard overview: scorecards, monthly trend and breakdowns](screenshots/dashboard_overview.png)
+![Dashboard overview: scorecards, monthly trend and breakdowns](screenshots/dashboard_overview.jpg)
 
-![Dashboard with the channel filter applied](screenshots/dashboard_filtered.png)
+![Dashboard with the channel filter applied](screenshots/dashboard_filtered.jpg)
+
 
 ## What the dashboard shows
 
