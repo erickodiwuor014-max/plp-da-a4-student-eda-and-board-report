@@ -1,6 +1,6 @@
 # Duka Electronics H1 2026 Dashboard
 
-**Public Looker Studio link:** PASTE-YOUR-LOOKER-STUDIO-LINK-HERE
+**Public Looker Studio link:** https://datastudio.google.com/reporting/5341e0c1-10ff-4fdc-8083-0c14cf2015b0
 
 Anyone with the link can view the dashboard. The data is synthetic course data, so public sharing is safe.
 
